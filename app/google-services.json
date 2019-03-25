@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905167110341",
+    "firebase_url": "https://sentimental-analysis-ab63a.firebaseio.com",
+    "project_id": "sentimental-analysis-ab63a",
+    "storage_bucket": "sentimental-analysis-ab63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905167110341:android:5af094822c5b3275",
+        "android_client_info": {
+          "package_name": "com.example.sentimental_analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905167110341-27a13r9fll5jggfn6653396dijuekrgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sentimental_analysis",
+            "certificate_hash": "85fe947395941d92fc1bd599535564023b64dadf"
+          }
+        },
+        {
+          "client_id": "905167110341-id6pe33am51pc7mnm72j4j2h3mk3odec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpglKmJhwmLcHh-6XO1GFqtLqBE7g3fUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905167110341-id6pe33am51pc7mnm72j4j2h3mk3odec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
